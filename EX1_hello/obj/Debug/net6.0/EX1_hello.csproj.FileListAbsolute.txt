@@ -1,0 +1,15 @@
+D:\Downloads\Курс\CS\EX1_hello\bin\Debug\net6.0\EX1_hello.exe
+D:\Downloads\Курс\CS\EX1_hello\bin\Debug\net6.0\EX1_hello.deps.json
+D:\Downloads\Курс\CS\EX1_hello\bin\Debug\net6.0\EX1_hello.runtimeconfig.json
+D:\Downloads\Курс\CS\EX1_hello\bin\Debug\net6.0\EX1_hello.dll
+D:\Downloads\Курс\CS\EX1_hello\bin\Debug\net6.0\EX1_hello.pdb
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\EX1_hello.csproj.AssemblyReference.cache
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\EX1_hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\EX1_hello.AssemblyInfoInputs.cache
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\EX1_hello.AssemblyInfo.cs
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\EX1_hello.csproj.CoreCompileInputs.cache
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\EX1_hello.dll
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\refint\EX1_hello.dll
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\EX1_hello.pdb
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\EX1_hello.genruntimeconfig.cache
+D:\Downloads\Курс\CS\EX1_hello\obj\Debug\net6.0\ref\EX1_hello.dll
